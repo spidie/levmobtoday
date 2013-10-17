@@ -1,0 +1,11 @@
+.team table tr > td:first-child, table th {
+    font-weight: normal;
+}
+
+.team table th {
+    text-align: center;
+}
+
+.team table td {
+    vertical-align: top;
+}
