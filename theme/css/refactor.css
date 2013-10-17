@@ -9,3 +9,8 @@
 .team table td {
     vertical-align: top;
 }
+
+.apps img {
+    width: 50px;
+    vertical-align: middle;
+}
