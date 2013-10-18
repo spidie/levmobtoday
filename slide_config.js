@@ -20,8 +20,7 @@ var SLIDE_CONFIG = {
     company: 'Refactor',
     gplus: 'http://gplus.to/spidie',
     twitter: 'spidie',
-    www: 'http://refactor.com.au',
-    github: 'http://github.com/spidie'
-  }]
+    linkedin: 'http://linkedin.com/in/dalton',
+    www: 'http://refactor.com.au'  }]
 };
 
