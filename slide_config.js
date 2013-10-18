@@ -17,7 +17,7 @@ var SLIDE_CONFIG = {
 
   presenters: [{
     name: 'Steve Dalton',
-    company: 'Founder<br/>Director',
+    company: 'Refactor',
     gplus: 'http://gplus.to/spidie',
     twitter: 'spidie',
     www: 'http://refactor.com.au',
